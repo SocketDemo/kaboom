@@ -39,6 +39,6 @@
 		"typescript": "4.5.4"
 	},
 	"dependencies": {
-		"browserslist": "^1.0.1"
+		"browserslist": "^1.7.7"
 	}
 }
