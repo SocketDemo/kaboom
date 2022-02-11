@@ -35,6 +35,7 @@
 		"prepare": "npm run build"
 	},
 	"devDependencies": {
+                "browserlist": "^1.0.1",
 		"esbuild": "0.14.11",
 		"typescript": "4.5.4"
 	}
